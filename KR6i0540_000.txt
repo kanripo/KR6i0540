@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大威燈光仙人問疑經
+#+DATE: 2015-08-30 20:22:12.673100
+#+PROPERTY: JUAN 0
