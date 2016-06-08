@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 834
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0540_T_000-0883c>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0540_T_001-0883c> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
@@ -55,7 +55,7 @@ No. 834 [No. 833]¶
 
 爾時，一切大眾各懷疑心，迭共相¶
 觀。時諸菩薩皆大歡喜，雨諸珍寶供養之具¶
-乃至瓔珞，供養如來。
+乃至瓔珞，供養如来。
 
 爾時，世尊現是瑞已，還¶
 從寶捨三昧起。從三昧起已，如師子王頻申顧視，普觀十方。觀十方已，即時見彼十方¶
@@ -619,4 +619,4 @@ No. 834 [No. 833]¶
 文殊尸利諸菩薩等，及威燈光、一切仙人并¶
 餘眷屬，天龍八部、諸鬼神等，一切大眾聞佛¶
 所說，歡喜奉行。¶
-《大威燈光仙人問疑經》
+《大威燈光（大）＋仙人問疑經》
